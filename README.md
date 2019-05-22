@@ -35,7 +35,3 @@ For compilation, you will need `SDL` and `SDL_mixer` in some very archaic-I-can-
 <p align="center">
   <img src="doc/scr_1.jpg">
 </p>
-
-<p align="center">
-  <img src="doc/scr_2.jpg">
-</p>
