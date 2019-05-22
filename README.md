@@ -16,7 +16,7 @@ I made this game long time ago and I really can not remeber where I found assest
 - `Ctrl` - shoot.
 
 <p align="center">  
-  <img src="Doc/game_0.gif">
+  <img src="doc/game_0.gif">
 </p>
 
 # Features
