@@ -10,7 +10,7 @@ One of my first bigger projects in c++. Game where your task is to destroy all c
 
 I made this game long time ago and I really can not remeber where I found assests what I am using. If you find anything what possibly violates copyright, please let me know.
 
-For compilation, you will need `SDL` and `SDL_mixer` in some very archaic-I-can-not-remember version :blush:
+For compilation, you will need `SDL` and `SDL_mixer` in some very archaic-I-can-not-remember versions :blush:
 
 # Controls
 - `Left/Right arrow` - direction change.
@@ -23,8 +23,9 @@ For compilation, you will need `SDL` and `SDL_mixer` in some very archaic-I-can-
 
 # Features
 - Fully functional **Free ride** mode.
-- You can destroy a cannon only when it is out of the wall.
-- Game contains pickable bonuses.
+- The game is difficult, cannons are controled by random.
+- The cannons are destroyable only when out of the wall.
+- The game contains pickable bonuses.
 - Original music made by Roman Antala.
 
 # Screenshots
