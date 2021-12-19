@@ -1,5 +1,5 @@
 # Jais
-One of my first bigger projects in c++. Game where your task is to destroy all cannons around you and survive.
+One of my first big projects in C++ from a far past. A game where your task is to destroy all cannons around you and survive.
 
 <p align="center">  
   <img src="doc/splash.jpg">
@@ -10,7 +10,7 @@ One of my first bigger projects in c++. Game where your task is to destroy all c
 
 I made this game long time ago and I really can not remeber where I found assests what I am using. If you find anything what possibly violates copyright, please let me know.
 
-For compilation, you will need `SDL` and `SDL_mixer` in some very archaic-I-can-not-remember versions :blush:
+For compilation, you will need `SDL` and `SDL_mixer` in some very archaic-I-cannot-remember versions :blush:
 
 # Controls
 - `Left/Right arrow` - direction change.
